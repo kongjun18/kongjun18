@@ -1,1 +1,7 @@
-![](https://github-readme-stats.vercel.app/api?username=kongjun18)
+<div align="center">
+
+![](https://raw.githubusercontent.com/kongjun18/kongjun18/main/profile-summary-card-output/default/0-profile-details.svg)
+![](https://raw.githubusercontent.com/kongjun18/kongjun18/main/profile-summary-card-output/default/3-stats.svg)
+![](https://raw.githubusercontent.com/kongjun18/kongjun18/main/profile-summary-card-output/default/4-productive-time.svg)
+
+</div>
