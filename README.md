@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2020 - To: 27 April 2023
+From: 21 April 2023 - To: 28 April 2023
 
-Total Time: 732 hrs 44 mins
+Total Time: 37 hrs 58 mins
 
-C                   180 hrs 7 mins  ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-C++                 156 hrs 12 mins █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
-VimL                107 hrs 6 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Other               48 hrs 14 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+C             20 hrs 15 mins  █████████████▒░░░░░░░░░░░   53.35 %
+Lua           5 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Markdown      3 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Other         1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
