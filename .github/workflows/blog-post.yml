@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.kongjun18.me/index.xml"
+          feed_list: "https://kongjun18.github.io/index.xml"
