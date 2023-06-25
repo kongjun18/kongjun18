@@ -20,12 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
-Total Time: 3 hrs 41 mins
+Total Time: 3 hrs 43 mins
 
-Markdown   3 hrs 41 mins   █████████████████████████   99.65 %
+Markdown   3 hrs 42 mins   █████████████████████████   99.58 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
