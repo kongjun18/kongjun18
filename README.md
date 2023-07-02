@@ -20,15 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 30 June 2023
+From: 24 June 2023 - To: 01 July 2023
 
-Total Time: 1 hr 2 mins
+Total Time: 49 mins
 
-Markdown   58 mins         ███████████████████████▓░   94.18 %
-Go         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-pdf        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   46 mins         ███████████████████████▒░   93.01 %
+Go         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+pdf        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
