@@ -20,14 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2023 - To: 02 July 2023
+From: 26 June 2023 - To: 03 July 2023
 
-Total Time: 49 mins
+Total Time: 43 mins
 
-Markdown   46 mins         ███████████████████████▒░   93.01 %
-Go         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-pdf        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Markdown   40 mins         ███████████████████████░░   92.42 %
+Go         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
 ```
 
 <!--END_SECTION:waka-->
