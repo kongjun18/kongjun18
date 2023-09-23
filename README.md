@@ -20,20 +20,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Total Time: 28 hrs 25 mins
+Total Time: 23 hrs 41 mins
 
-Python            11 hrs 36 mins  ██████████▒░░░░░░░░░░░░░░   40.87 %
-Go                7 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Markdown          5 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
-YAML              1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Lua               32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Ezhil             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-GDScript          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Protocol Buffer   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Text              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Bash              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Go                7 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.60 %
+Python            6 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+Markdown          5 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+YAML              1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Lua               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Ezhil             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+GDScript          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Protocol Buffer   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Text              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Bash              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
