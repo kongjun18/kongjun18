@@ -22,17 +22,18 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Total Time: 5 hrs 56 mins
+Total Time: 10 hrs 37 mins
 
-Markdown    4 hrs 52 mins   ████████████████████▒░░░░   81.93 %
-Go          55 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-Lua         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-GDScript3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-MySQL       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-C           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Ezhil       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown    7 hrs 34 mins   ██████████████████░░░░░░░   71.39 %
+Go          2 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+Lua         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Assembly    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+GDScript3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+MySQL       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Ezhil       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TSQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
