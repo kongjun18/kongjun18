@@ -7,11 +7,11 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 #### <a href="https://www.kongjun18.me" target="_blank">Recent Blog</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [【论文阅读】Understanding, detecting and localizing partial failures in large system software](https://kongjun18.github.io/posts/understanding-detecting-and-localizing-partial-failures-in-large-system-software/)
 - [【论文阅读】Efficient Exposure of Partial Failure Bugs in Distributed Systems with Inferred Abstract States](https://kongjun18.github.io/posts/efficient-exposure-of-partial-failure-bugs-in-distributed-systems-with-inferred-abstract-states/)
-- [【译】无锁算法导论](https://kongjun18.github.io/posts/an-introduction-to-lockless-algorithms/)
-- [使用 yadm 管理点文件](https://kongjun18.github.io/posts/manage-dotfiles-with-yadm/)
-- [致敬经典：K&amp;R allocator 内存分配器](https://kongjun18.github.io/posts/k-and-r-allocator/)
-- [深入剖析 Go 语言运行时：IO 轮询器](https://kongjun18.github.io/posts/inside-the-go-netpoller/)
+- [【论文阅读】Acto Automatic End-to-End Testing for Operation Correctness of Cloud System Management](https://kongjun18.github.io/posts/acto-automatic-end-to-end-testing-for-operation-correctness-of-cloud-system-management/)
+- [【论文阅读】Wisckey Separating keys from values in ssd-conscious storage](https://kongjun18.github.io/posts/wisckey-separating-keys-from-values-in-ssd-conscious-storage/)
+- [【论文阅读】Linux block IO introducing multi-queue SSD access on multi-core systems](https://kongjun18.github.io/posts/linux-block-io-introducing-multi-queue-ssd-access-on-multi-core-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
