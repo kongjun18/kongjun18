@@ -22,15 +22,17 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2024 - To: 23 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-Total Time: 2 hrs 44 mins
+Total Time: 7 hrs 19 mins
 
-Go                1 hr 17 mins    ███████████▓░░░░░░░░░░░░░   46.77 %
-Python            48 mins         ███████▒░░░░░░░░░░░░░░░░░   29.38 %
-Markdown          32 mins         █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-Protocol Buffer   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Image (png)       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Go                4 hrs 37 mins   ███████████████▓░░░░░░░░░   63.24 %
+Python            1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+Markdown          46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Bash              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Protocol Buffer   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Lua               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Image (png)       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
