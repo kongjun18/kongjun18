@@ -22,16 +22,17 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2024 - To: 11 October 2024
+From: 05 October 2024 - To: 12 October 2024
 
-Total Time: 15 hrs 49 mins
+Total Time: 13 hrs 10 mins
 
-Go                13 hrs 46 mins  █████████████████████▓░░░   87.06 %
-Python            1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Protocol Buffer   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Markdown          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go                10 hrs 1 min    ███████████████████░░░░░░   76.16 %
+Python            2 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+Markdown          42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Lua               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 fugitiveblame     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
