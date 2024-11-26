@@ -22,16 +22,16 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-Total Time: 4 hrs 2 mins
+Total Time: 3 hrs 52 mins
 
-Go                2 hrs 5 mins    █████████████░░░░░░░░░░░░   51.74 %
-Markdown          1 hr 23 mins    ████████▓░░░░░░░░░░░░░░░░   34.30 %
-YAML              14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Python            12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-JavaScript        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Protocol Buffer   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Go                2 hrs 5 mins    █████████████▒░░░░░░░░░░░   53.86 %
+Markdown          1 hr 13 mins    ████████░░░░░░░░░░░░░░░░░   31.38 %
+YAML              14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Python            12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+JavaScript        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Protocol Buffer   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 Vue.js            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 fugitiveblame     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
