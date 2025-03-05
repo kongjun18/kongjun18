@@ -22,20 +22,20 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2025 - To: 03 March 2025
+From: 25 February 2025 - To: 04 March 2025
 
-Total Time: 17 hrs 10 mins
+Total Time: 16 hrs 30 mins
 
-C++             6 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   40.54 %
-C               6 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.35 %
-Bash            1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-Markdown        1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Makefile        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Python          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JavaScript      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Git             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-CMake           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Go              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+C++               6 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   40.71 %
+Python            3 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+C                 2 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+Bash              1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Markdown          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Go                19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+JavaScript        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Makefile          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+CMake             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Objective-C       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
