@@ -22,20 +22,20 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 02 April 2025
+From: 27 March 2025 - To: 03 April 2025
 
 Total Time: 4 hrs 12 mins
 
-Go                3 hrs 4 mins    ██████████████████▒░░░░░░   73.22 %
-Lua               29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Go                3 hrs 22 mins   ████████████████████░░░░░   80.20 %
+Lua               29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
 Markdown          16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-YAML              13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 Text              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Bash              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-zsh               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Python            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 conf              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Vim Script        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
