@@ -22,19 +22,20 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 22 April 2025 - To: 29 April 2025
 
-Total Time: 1 hr 36 mins
+Total Time: 5 hrs 26 mins
 
-Bash       1 hr 20 mins    ████████████████████▓░░░░   83.02 %
-Other      9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-Go         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Lua        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-zsh        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-AsciiDoc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Lua        2 hrs 53 mins   █████████████▒░░░░░░░░░░░   52.97 %
+Bash       1 hr 38 mins    ███████▓░░░░░░░░░░░░░░░░░   30.09 %
+Markdown   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+Other      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Text       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Go         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+zsh        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+AsciiDoc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+conf       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
