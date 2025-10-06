@@ -22,13 +22,13 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2025 - To: 04 October 2025
+From: 28 September 2025 - To: 05 October 2025
 
-Total Time: 16 mins
+Total Time: 34 mins
 
-C++        13 mins         ████████████████████▓░░░░   82.78 %
-Bash       2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Makefile   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+C++        31 mins         ███████████████████████░░   91.85 %
+Bash       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
