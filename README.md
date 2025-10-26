@@ -22,18 +22,17 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-Total Time: 5 hrs 30 mins
+Total Time: 3 hrs 1 min
 
-C          2 hrs 23 mins   ██████████▓░░░░░░░░░░░░░░   43.30 %
-C++        2 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.75 %
-Docker     28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Bash       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-conf       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++        2 hrs 13 mins   ██████████████████▒░░░░░░   73.41 %
+Docker     19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Bash       15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Markdown   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+conf       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
