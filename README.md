@@ -1,4 +1,4 @@
-I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on developing large-scale distributed storage systems.
+I am a CS PhD student at Arizona State University(ASU), working on database/store systems and LLM inference (especially KV cache offloading and management). Before joining ASU, I was an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on developing large-scale distributed storage systems.
 
 <table width="960px">
 <tr>
