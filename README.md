@@ -22,15 +22,16 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 30 October 2025
+From: 24 October 2025 - To: 31 October 2025
 
-Total Time: 3 hrs 48 mins
+Total Time: 3 hrs 57 mins
 
-Markdown   1 hr 11 mins    ███████▓░░░░░░░░░░░░░░░░░   31.30 %
-C++        1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.47 %
-C          1 hr 8 mins     ███████▓░░░░░░░░░░░░░░░░░   30.08 %
-Assembly   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Markdown   1 hr 16 mins    ████████░░░░░░░░░░░░░░░░░   32.31 %
+C          1 hr 11 mins    ███████▒░░░░░░░░░░░░░░░░░   29.87 %
+C++        1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   29.31 %
+Assembly   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Bash       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 pdf        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
