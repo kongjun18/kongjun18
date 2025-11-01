@@ -4,7 +4,7 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 <tr>
 <td valign="top" width="50%">
 
-#### <a href="https://www.kongjun18.me" target="_blank">Recent Blog</a>
+#### <a href="https://www.kongjun18.me" target="_blank">Recent Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
 - [[Paper Note] Supporting Our AI Overlords Redesigning Data Systems to be Agent-first](https://kongjun18.github.io/posts/supporting-our-ai-overlords-redesigning-data-systems-to-be-agent-first/)
@@ -14,30 +14,6 @@ I am an AI-infra SWE at [Megvii Inc](https://en.megvii.com/), working on develop
 - [[Paper Note] H2O Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models](https://kongjun18.github.io/posts/h2o-heavy-hitter-oracle-for-efficient-generative-inference-of-large-language-models/)
 <!-- BLOG-POST-LIST:END -->
 
-</td>
-<td valign="top" width="50%">
-
-#### Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2025 - To: 31 October 2025
-
-Total Time: 3 hrs 57 mins
-
-Markdown   1 hr 16 mins    ████████░░░░░░░░░░░░░░░░░   32.31 %
-C          1 hr 11 mins    ███████▒░░░░░░░░░░░░░░░░░   29.87 %
-C++        1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   29.31 %
-Assembly   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Bash       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-pdf        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
 </td>
 </tr>
 
